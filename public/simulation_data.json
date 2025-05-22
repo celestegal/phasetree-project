@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "sim001",
+    "timestamp": "2025-05-01T10:00:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim002",
+    "timestamp": "2025-05-01T10:05:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim003",
+    "timestamp": "2025-05-01T10:10:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim004",
+    "timestamp": "2025-05-01T10:15:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim005",
+    "timestamp": "2025-05-01T10:20:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim006",
+    "timestamp": "2025-05-01T10:25:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim007",
+    "timestamp": "2025-05-01T10:30:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim008",
+    "timestamp": "2025-05-01T10:35:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim009",
+    "timestamp": "2025-05-01T10:40:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "pending"
+  },
+  {
+    "id": "sim010",
+    "timestamp": "2025-05-01T10:45:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "completed"
+  },
+  {
+    "id": "sim011",
+    "timestamp": "2025-05-01T10:50:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim012",
+    "timestamp": "2025-05-01T10:55:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim013",
+    "timestamp": "2025-05-01T11:00:00Z",
+    "value": 170.64,
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim014",
+    "timestamp": "2025-05-01T11:05:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim015",
+    "timestamp": "2025-05-01T11:10:00Z",
+    "value": 54.73,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim016",
+    "timestamp": "2025-05-01T11:15:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim017",
+    "timestamp": "2025-05-01T11:20:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim018",
+    "timestamp": "2025-05-01T11:25:00Z",
+    "value": 104.11,
+    "parameter_set": "Alpha",
+    "status": "failed"
+  },
+  {
+    "id": "sim019",
+    "timestamp": "2025-05-01T11:30:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim020",
+    "timestamp": "2025-05-01T11:35:00Z",
+    "value": 146.4,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim021",
+    "timestamp": "2025-05-01T11:40:00Z",
+    "value": 173.98,
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim022",
+    "timestamp": "2025-05-01T11:45:00Z",
+    "value": 47.59,
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim023",
+    "timestamp": "2025-05-01T11:50:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim024",
+    "timestamp": "2025-05-01T11:55:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim025",
+    "timestamp": "2025-05-01T12:00:00Z",
+    "value": 139.09,
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim026",
+    "timestamp": "2025-05-01T12:05:00Z",
+    "value": 44.04,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim027",
+    "timestamp": "2025-05-01T12:10:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim028",
+    "timestamp": "2025-05-01T12:15:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim029",
+    "timestamp": "2025-05-01T12:20:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "completed"
+  },
+  {
+    "id": "sim030",
+    "timestamp": "2025-05-01T12:25:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "completed"
+  },
+  {
+    "id": "sim031",
+    "timestamp": "2025-05-01T12:30:00Z",
+    "value": 84.88,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim032",
+    "timestamp": "2025-05-01T12:35:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim033",
+    "timestamp": "2025-05-01T12:40:00Z",
+    "value": 56.24,
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim034",
+    "timestamp": "2025-05-01T12:45:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim035",
+    "timestamp": "2025-05-01T12:50:00Z",
+    "value": 106.74,
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim036",
+    "timestamp": "2025-05-01T12:55:00Z",
+    "value": 153.04,
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim037",
+    "timestamp": "2025-05-01T13:00:00Z",
+    "value": 149.31,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim038",
+    "timestamp": "2025-05-01T13:05:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim039",
+    "timestamp": "2025-05-01T13:10:00Z",
+    "value": 190.96,
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim040",
+    "timestamp": "2025-05-01T13:15:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim041",
+    "timestamp": "2025-05-01T13:20:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim042",
+    "timestamp": "2025-05-01T13:25:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim043",
+    "timestamp": "2025-05-01T13:30:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim044",
+    "timestamp": "2025-05-01T13:35:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim045",
+    "timestamp": "2025-05-01T13:40:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim046",
+    "timestamp": "2025-05-01T13:45:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim047",
+    "timestamp": "2025-05-01T13:50:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim048",
+    "timestamp": "2025-05-01T13:55:00Z",
+    "value": 154.97,
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim049",
+    "timestamp": "2025-05-01T14:00:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim050",
+    "timestamp": "2025-05-01T14:05:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim051",
+    "timestamp": "2025-05-01T14:10:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim052",
+    "timestamp": "2025-05-01T14:15:00Z",
+    "value": 116.45,
+    "parameter_set": "Delta v2",
+    "status": "pending"
+  },
+  {
+    "id": "sim053",
+    "timestamp": "2025-05-01T14:20:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim054",
+    "timestamp": "2025-05-01T14:25:00Z",
+    "value": 148.87,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim055",
+    "timestamp": "2025-05-01T14:30:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim056",
+    "timestamp": "2025-05-01T14:35:00Z",
+    "value": 193.41,
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim057",
+    "timestamp": "2025-05-01T14:40:00Z",
+    "value": 155.39,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim058",
+    "timestamp": "2025-05-01T14:45:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "completed"
+  },
+  {
+    "id": "sim059",
+    "timestamp": "2025-05-01T14:50:00Z",
+    "value": 39.14,
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim060",
+    "timestamp": "2025-05-01T14:55:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "failed"
+  },
+  {
+    "id": "sim061",
+    "timestamp": "2025-05-01T15:00:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim062",
+    "timestamp": "2025-05-01T15:05:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim063",
+    "timestamp": "2025-05-01T15:10:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim064",
+    "timestamp": "2025-05-01T15:15:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim065",
+    "timestamp": "2025-05-01T15:20:00Z",
+    "value": 59.89,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim066",
+    "timestamp": "2025-05-01T15:25:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim067",
+    "timestamp": "2025-05-01T15:30:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "failed"
+  },
+  {
+    "id": "sim068",
+    "timestamp": "2025-05-01T15:35:00Z",
+    "value": 191.25,
+    "parameter_set": "BetaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim069",
+    "timestamp": "2025-05-01T15:40:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim070",
+    "timestamp": "2025-05-01T15:45:00Z",
+    "value": 74.23,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim071",
+    "timestamp": "2025-05-01T15:50:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim072",
+    "timestamp": "2025-05-01T15:55:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim073",
+    "timestamp": "2025-05-01T16:00:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim074",
+    "timestamp": "2025-05-01T16:05:00Z",
+    "value": 103.37,
+    "parameter_set": "BetaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim075",
+    "timestamp": "2025-05-01T16:10:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim076",
+    "timestamp": "2025-05-01T16:15:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim077",
+    "timestamp": "2025-05-01T16:20:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim078",
+    "timestamp": "2025-05-01T16:25:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim079",
+    "timestamp": "2025-05-01T16:30:00Z",
+    "value": 78.66,
+    "parameter_set": "BetaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim080",
+    "timestamp": "2025-05-01T16:35:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim081",
+    "timestamp": "2025-05-01T16:40:00Z",
+    "value": 122.68,
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim082",
+    "timestamp": "2025-05-01T16:45:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim083",
+    "timestamp": "2025-05-01T16:50:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "completed"
+  },
+  {
+    "id": "sim084",
+    "timestamp": "2025-05-01T16:55:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim085",
+    "timestamp": "2025-05-01T17:00:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "pending"
+  },
+  {
+    "id": "sim086",
+    "timestamp": "2025-05-01T17:05:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim087",
+    "timestamp": "2025-05-01T17:10:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim088",
+    "timestamp": "2025-05-01T17:15:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim089",
+    "timestamp": "2025-05-01T17:20:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim090",
+    "timestamp": "2025-05-01T17:25:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim091",
+    "timestamp": "2025-05-01T17:30:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim092",
+    "timestamp": "2025-05-01T17:35:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim093",
+    "timestamp": "2025-05-01T17:40:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "pending"
+  },
+  {
+    "id": "sim094",
+    "timestamp": "2025-05-01T17:45:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim095",
+    "timestamp": "2025-05-01T17:50:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "completed"
+  },
+  {
+    "id": "sim096",
+    "timestamp": "2025-05-01T17:55:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim097",
+    "timestamp": "2025-05-01T18:00:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim098",
+    "timestamp": "2025-05-01T18:05:00Z",
+    "value": null,
+    "parameter_set": "Alpha",
+    "status": "failed"
+  },
+  {
+    "id": "sim099",
+    "timestamp": "2025-05-01T18:10:00Z",
+    "value": 113.68,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim100",
+    "timestamp": "2025-05-01T18:15:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim101",
+    "timestamp": "2025-05-01T18:20:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim102",
+    "timestamp": "2025-05-01T18:25:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim103",
+    "timestamp": "2025-05-01T18:30:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim104",
+    "timestamp": "2025-05-01T18:35:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim105",
+    "timestamp": "2025-05-01T18:40:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim106",
+    "timestamp": "2025-05-01T18:45:00Z",
+    "value": 22.82,
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim107",
+    "timestamp": "2025-05-01T18:50:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim108",
+    "timestamp": "2025-05-01T18:55:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "running"
+  },
+  {
+    "id": "sim109",
+    "timestamp": "2025-05-01T19:00:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim110",
+    "timestamp": "2025-05-01T19:05:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim111",
+    "timestamp": "2025-05-01T19:10:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim112",
+    "timestamp": "2025-05-01T19:15:00Z",
+    "value": "invalid",
+    "parameter_set": "Alpha",
+    "status": "completed"
+  },
+  {
+    "id": "sim113",
+    "timestamp": "2025-05-01T19:20:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim114",
+    "timestamp": "2025-05-01T19:25:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim115",
+    "timestamp": "2025-05-01T19:30:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim116",
+    "timestamp": "2025-05-01T19:35:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim117",
+    "timestamp": "2025-05-01T19:40:00Z",
+    "value": 75.02,
+    "parameter_set": "Alpha",
+    "status": "running"
+  },
+  {
+    "id": "sim118",
+    "timestamp": "2025-05-01T19:45:00Z",
+    "value": 145.89,
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim119",
+    "timestamp": "2025-05-01T19:50:00Z",
+    "value": 117.65,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim120",
+    "timestamp": "2025-05-01T19:55:00Z",
+    "value": 133.11,
+    "parameter_set": "Delta v2",
+    "status": "completed"
+  },
+  {
+    "id": "sim121",
+    "timestamp": "2025-05-01T20:00:00Z",
+    "value": 104.51,
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim122",
+    "timestamp": "2025-05-01T20:05:00Z",
+    "value": 79.79,
+    "parameter_set": "Delta v2",
+    "status": "pending"
+  },
+  {
+    "id": "sim123",
+    "timestamp": "2025-05-01T20:10:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim124",
+    "timestamp": "2025-05-01T20:15:00Z",
+    "value": "invalid",
+    "parameter_set": "Delta v2",
+    "status": "completed"
+  },
+  {
+    "id": "sim125",
+    "timestamp": "2025-05-01T20:20:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim126",
+    "timestamp": "2025-05-01T20:25:00Z",
+    "value": 126.55,
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim127",
+    "timestamp": "2025-05-01T20:30:00Z",
+    "value": 42.53,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim128",
+    "timestamp": "2025-05-01T20:35:00Z",
+    "value": 56.97,
+    "parameter_set": "BetaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim129",
+    "timestamp": "2025-05-01T20:40:00Z",
+    "value": 75.03,
+    "parameter_set": "BetaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim130",
+    "timestamp": "2025-05-01T20:45:00Z",
+    "value": 130.26,
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim131",
+    "timestamp": "2025-05-01T20:50:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim132",
+    "timestamp": "2025-05-01T20:55:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim133",
+    "timestamp": "2025-05-01T21:00:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim134",
+    "timestamp": "2025-05-01T21:05:00Z",
+    "value": 33.22,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim135",
+    "timestamp": "2025-05-01T21:10:00Z",
+    "value": "invalid",
+    "parameter_set": "BetaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim136",
+    "timestamp": "2025-05-01T21:15:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "completed"
+  },
+  {
+    "id": "sim137",
+    "timestamp": "2025-05-01T21:20:00Z",
+    "value": 163.15,
+    "parameter_set": "Delta v2",
+    "status": "pending"
+  },
+  {
+    "id": "sim138",
+    "timestamp": "2025-05-01T21:25:00Z",
+    "value": 102.38,
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim139",
+    "timestamp": "2025-05-01T21:30:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim140",
+    "timestamp": "2025-05-01T21:35:00Z",
+    "value": 68.74,
+    "parameter_set": "BetaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim141",
+    "timestamp": "2025-05-01T21:40:00Z",
+    "value": null,
+    "parameter_set": "Delta v2",
+    "status": "failed"
+  },
+  {
+    "id": "sim142",
+    "timestamp": "2025-05-01T21:45:00Z",
+    "value": null,
+    "parameter_set": "BetaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim143",
+    "timestamp": "2025-05-01T21:50:00Z",
+    "value": 162.88,
+    "parameter_set": "Delta v2",
+    "status": "pending"
+  },
+  {
+    "id": "sim144",
+    "timestamp": "2025-05-01T21:55:00Z",
+    "value": 130.64,
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim145",
+    "timestamp": "2025-05-01T22:00:00Z",
+    "value": 137.71,
+    "parameter_set": "GammaSet",
+    "status": "pending"
+  },
+  {
+    "id": "sim146",
+    "timestamp": "2025-05-01T22:05:00Z",
+    "value": "invalid",
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim147",
+    "timestamp": "2025-05-01T22:10:00Z",
+    "value": 179.61,
+    "parameter_set": "GammaSet",
+    "status": "completed"
+  },
+  {
+    "id": "sim148",
+    "timestamp": "2025-05-01T22:15:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "failed"
+  },
+  {
+    "id": "sim149",
+    "timestamp": "2025-05-01T22:20:00Z",
+    "value": null,
+    "parameter_set": "GammaSet",
+    "status": "running"
+  },
+  {
+    "id": "sim150",
+    "timestamp": "2025-05-01T22:25:00Z",
+    "value": 96.48,
+    "parameter_set": "Alpha",
+    "status": "failed"
+  }
+]
