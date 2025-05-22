@@ -21,6 +21,8 @@ This project consists of two main parts:
 ```bash
 python3 generate_simulation_data.py
 
+-- 
+
 ## React Application
 
 Make sure you have **Node.js** (version 14 or higher) and **npm** or **yarn** installed.
@@ -35,6 +37,8 @@ yarn install
 npm start
 # or
 yarn start
+
+-- 
 
 ## Dependencies
 
